@@ -1,3 +1,5 @@
 console.log("shared by beta and alpha branch")
 
-// alpha 1
+// resolved conflict solution:
+// alpha
+// beta
